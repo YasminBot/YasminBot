@@ -4,8 +4,8 @@ Eu neste momento estou me dedicando para desenovlver bots para o discord com apo
 
 <div>
 <a href="https://github.com/YasminBot">
-<img height="157cm" src="https://github-readme-stats.vercel.app/api?username=YasminBot&show_icons=true&theme=outrun&include_all_comits=true&count_private=true"/>
-<img align="right" height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminBot&layout=compact&langs_count=16&theme=outrun" />
+<img height="130cm" src="https://github-readme-stats.vercel.app/api?username=YasminBot&show_icons=true&theme=outrun&include_all_comits=true&count_private=true"/>
+<img align="right" height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminBot&layout=compact&langs_count=16&theme=outrun" />
   </div>
 
 <h2>O que eu sei programar 😊: </h2>
